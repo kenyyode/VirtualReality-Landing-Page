@@ -5,6 +5,7 @@ import HeroSection from './components/Hero';
 import FeatureSeaction from './components/FeatureSection';
 import Workflow from './components/Workflow';
 import Pricing from './components/Pricing';
+import Testimonials from './components/Testimonials';
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <FeatureSeaction />
         <Workflow />
         <Pricing />
+        <Testimonials />
         
         {/* Add more components as needed */}
 
