@@ -6,6 +6,7 @@ import FeatureSeaction from './components/FeatureSection';
 import Workflow from './components/Workflow';
 import Pricing from './components/Pricing';
 import Testimonials from './components/Testimonials';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -20,10 +21,13 @@ function App() {
         <Pricing />
         <Testimonials />
         
+        
+        
         {/* Add more components as needed */}
 
 
       </div>
+      <Footer />
       
     </div>
  
